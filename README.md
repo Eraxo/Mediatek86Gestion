@@ -1,7 +1,4 @@
 # Mediatek86
-La base de données, la vidéo de présentation, le compte rendu et le contexte sont dans mon site portfolio: https://mathilde-lavielle.go.yj.fr/
-
-
 Comptes Utilisateurs : 
 Compte Administrateur 
  - Pseudo : Administrateur
