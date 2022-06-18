@@ -16,11 +16,10 @@ namespace Mediatek86.modele
     /// </summary>
     public static class Dao
     {
-       
-            private static readonly string server = "localhost";
-            private static readonly string userid = "root";
-            private static readonly string password = "";
-            private static readonly string database = "mediatek86";
+            private static readonly string server = "pf.haci.ovh";
+            private static readonly string userid = "eraxo";
+            private static readonly string password = "eraxo";
+            private static readonly string database = "mathilde";
             private static readonly string connectionString = "server=" + server + ";user id=" + userid + ";password=" + password + ";database=" + database + ";SslMode=none";
 
             /// <summary>
