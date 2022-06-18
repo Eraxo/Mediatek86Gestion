@@ -1,8 +1,5 @@
-# Mediatek86
-Comptes Utilisateurs : 
-Compte Administrateur 
- - Pseudo : Administrateur
- - Mot de passe : mdpadmin 
+Tous les fichiers nécessaires, comme le contexte, le compte rendu est dans mon site portfolio https://mathilde-lavielle.eu/
+
 
 Compte Service Administratif
  - Pseudo : Zoe Administratif
